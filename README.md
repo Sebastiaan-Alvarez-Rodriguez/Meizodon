@@ -8,7 +8,7 @@ Research project about Android static analysis tools and their practical outputs
  * Running installed analysis tools in batches, over multiple cores
  * Analyzing batch output, to determine the classifications for each analysis
 
-You want to add a method to the list above for your own research/fun? Please see the [Wiki](https://github.com/Sebastiaan-Alvarez-Rodriguez/Meizodon/wiki/Main). If you are done, put everything in a branch `add_<tool_name>` and make a merge request. Sharing is caring!
+You want to add a method to the list above for your own research/fun? Please see the [Wiki](https://github.com/Sebastiaan-Alvarez-Rodriguez/Meizodon/wiki/). If you are done, put everything in a branch `add_<tool_name>` and make a merge request. Sharing is caring!
 
 ## Dataset
 We generated results for the papers we wrote for this work. The results can be found in the [experiments branch](https://github.com/Sebastiaan-Alvarez-Rodriguez/Meizodon/tree/experiments).
